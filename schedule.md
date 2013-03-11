@@ -36,35 +36,32 @@
 
 ### Week Mar 3-9:
 
-* Mid-term review
 * Make poster for quick and dirty thesis show
 * Prep presentation for quick and dirty thesis show
 
 * Make sure demo works on mobile/tablet/widescreen, for thesis show
-* Implement database backup system
-* Implement occupation profiles & leveling systems
 
 ### Week Mar 10-16:
 
+* Mid-term review
 * Quick and dirty thesis show
 
-* Add more admin controls to rate limit/ban users
-* Work on API accessibility and API technical documentation
-* Write tests for critical parts of architecture (formula, sessions, etc.)
+* Implement occupation profiles & leveling systems
 
 ### Week Mar 17-23:
 
 * Spring Break
 * Attend World Happiness Day Happathon event
 
-* Port AdjectApproval to adjectives section of site
-* Make sure any redis request falls back to MongoDB
-* If there's time, send as much data as possible to be stored in redis
+* Fix formulas, add equality ability to formula creation
+* Galapag.us standard formulas
 
 ### Week Mar 24-30:
 
 * Write tests for critical parts of architecture (formula, sessions, etc.)
 * Security audit of platform (sessions, users, leaky data)
+* Implement database backup system
+* Log file backup/analysis systems
 
 ### Week Mar 31-Apr 6:
 
@@ -72,12 +69,18 @@
 * Update slide presentation
 
 * Begin user testing on ITP students (requires fairly hardened production server)
-* Log file backup/analysis systems
+* Work on API accessibility and API technical documentation
+* Port AdjectApproval to adjectives section of site
+* Add more admin controls to rate limit/ban users
 
 ### Week Apr 7-13:
 
 * 10-minute presentation
 * Work on thesis book entry
+
+* Make sure any redis request falls back to MongoDB
+* If there's time, send as much data as possible to be stored in redis
+* Re-visit API documentation, create sandbox for API?
 
 * Orders for swag (t-shirts, biz cards, playing cards, etc.) in by end of this week
 
@@ -91,6 +94,8 @@
 ### Week Apr 21-27:
 
 * Use apache bench to benchmark site, test how hard it would be to add an instance on the fly in case traffic tops out
+* controls for reporting/rating stuff down that is probably fake
+* forum creation?
 
 ### Week Apr 28-May 4:
 
@@ -98,6 +103,7 @@
 
 * Implement Google Analytics, event-based analytic systems
 * Business card creation widget?
+* API demo?
 
 ### Week May 5-11:
 
