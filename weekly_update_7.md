@@ -25,10 +25,10 @@ At the very least, this thesis project has been an awesome experience in terms o
 Commits from github:
 
 * python script to create new user, should increment redis & mongodb
-* admin user control (still need to link it to user visibility/access t… …
+* admin user control (still need to link it to user visibility/access to site)
 * wireframe site prefs page; laying out developer section
 * adding more individual-level stats
-* improving & debugging sequencer, added individual-level stats to sequ… …
+* improving & debugging sequencer, added individual-level stats to sequencer
 * debugging formula sequencer & routes
 * started API documentation page w/ styling
 * randomizes order of thanks/deeds
@@ -40,7 +40,7 @@ Commits from github:
 * style fixes for demo based on user feedback
 * style fixes to demo
 * fixed welcome demo so it saves before doing queries
-* python script to add dummy entries, still needs some tweaking for tes… …
+* python script to add dummy entries, still needs some tweaking for testing but ok for now
 * page width fix
 * remove some fields from demo
 * .gitignore
